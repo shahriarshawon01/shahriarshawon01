@@ -1,8 +1,17 @@
-### Hi there 👋, My name is Shahriar Rashid Shawon
+##Shahriar Rashid Shawon
 #### Web Developer
- Currently, I am working at TMSS ICT LTD.I like to work with my team and love to share and gather knowledge. I have completed a graduation of Bachelor of Science in Computer Science and Engineering from Eastern University 
+Hi there 👋, My name is Shahriar Rashid Shawon. Currently, I am working at TMSS ICT LTD.I like to work with my team and love to share and gather knowledge. I have completed a graduation of Bachelor of Science in Computer Science and Engineering from Eastern University 
 
-Skills: PHP/Laravel/Bootstrap/ HTML / CSS/JavaScript/MySQL/VUE JS  
+Skills:
+✔Comfortable with OOP
+✔PHP
+✔Laravel
+✔Bootstrap5
+✔HTML5 
+✔CSS3
+✔JavaScript
+✔MySQL
+✔VUE JS  
 
 - 🔭 I’m currently working on Inventory Management System 
 - 🌱 I’m currently learning Laravel/JavaScript 
