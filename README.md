@@ -109,9 +109,14 @@ Expert networking and consultation platform, built as a set of independently dep
 
 ---
 
-## 🏢 Built at [TMSS ICT Limited](https://tmss-ict.com/)
+### 🏢 TMSS ICT Limited
+Enterprise products I built during my 4+ years at [TMSS ICT Limited](https://tmss-ict.com/), Mirpur, Dhaka.
 
-### 🏦 Microfinance Management System
+🔗 Company: [tmss-ict.com](https://tmss-ict.com/)
+
+---
+
+#### 🏦 Microfinance Management System
 Microfinance platform for loan, savings and member account management.
 
 **Tech Stack:** Laravel, Vue.js, jQuery, MySQL, Bootstrap
@@ -121,9 +126,11 @@ Microfinance platform for loan, savings and member account management.
 - Savings accounts, member ledgers and day-end accounting
 - Branch-wise reporting, and query tuning to keep the heavy reports usable
 
+🔗 Live: [hem.mikrof.com](https://hem.mikrof.com/)
+
 ---
 
-### 🏫 Multi School Management System
+#### 🏫 Multi School Management System
 Multi-tenant school management system running several institutions off one deployment.
 
 **Tech Stack:** Laravel, Vue.js, MySQL, Tailwind CSS, Bootstrap
@@ -134,9 +141,11 @@ Multi-tenant school management system running several institutions off one deplo
 - Fee billing, invoicing and payment collection
 - Separate dashboards for admin, teacher, student and guardian roles
 
+🔗 Live: [app.edu-desk.net](https://app.edu-desk.net/)
+
 ---
 
-### 👥 HR Management System
+#### 👥 HR Management System
 HR platform covering the employee lifecycle from joining to payroll.
 
 **Tech Stack:** Laravel, Vue.js, MySQL, Bootstrap
@@ -147,9 +156,11 @@ HR platform covering the employee lifecycle from joining to payroll.
 - Payroll with allowances, deductions and payslip generation
 - HR reports and summary dashboards
 
+🔗 Live: [jcf.honeycombhr.org](https://jcf.honeycombhr.org/)
+
 ---
 
-### 📦 Inventory Management System
+#### 📦 Inventory Management System
 Stock and procurement system for multi-warehouse operations.
 
 **Features**
@@ -159,9 +170,11 @@ Stock and procurement system for multi-warehouse operations.
 
 **Tech Stack:** Laravel, Vue.js, MySQL, Bootstrap
 
+🔗 Live: [inventory.tmssict.com](https://inventory.tmssict.com/)
+
 ---
 
-### 💰 Provident Fund
+#### 💰 Provident Fund
 Provident fund system for employee contributions and settlements.
 
 **Features**
@@ -170,6 +183,8 @@ Provident fund system for employee contributions and settlements.
 - Member statements and reports
 
 **Tech Stack:** Laravel, jQuery, MySQL, Bootstrap
+
+🔗 Live: [pf.tmssict.com](https://pf.tmssict.com/login)
 
 ---
 
@@ -184,7 +199,7 @@ E-Commerce, Attendance Management System and a Blog, built while learning.
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Software Engineer | [StarConnect](https://www.starconnect.com/) | 2025 – Present |
+| Software Engineer | [StarConnect](https://www.starconnect.com/), Dhaka Trade Centre, Kawran Bazar, Dhaka | 2025 – Present |
 | Software Engineer | [TMSS ICT Limited](https://tmss-ict.com/), Mirpur, Dhaka | 08/2021 – 2025 (4+ years) |
 
 ---
