@@ -77,25 +77,27 @@ The problems I enjoy most are the ones around service boundaries, async messagin
 ## 🌟 Featured Projects
 
 ### ⭐ StarConnect
+
 Expert networking and consultation platform, built as a set of independently deployable microservices.
 
 **Tech Stack:** NestJS, TypeScript, TypeORM, MySQL, RabbitMQ, Elasticsearch, Redis, BullMQ, Express, Laravel 12, Next.js 15, Docker, Kubernetes, Argo CD
 
 **Services I work on**
 
-| Service | Responsibility | Stack |
-| --- | --- | --- |
-| Core | Auth (JWT / OAuth / WebAuthn / OTP), chat, webinars, video calls, notifications (FCM, APNs, email), payments, badges, access control, global search | NestJS · TypeORM · MySQL · RabbitMQ · Redis · BullMQ · Elasticsearch · S3 |
-| Profile | Experience, education, skills, certifications, publications, projects, identity verification, profile completion scoring | NestJS · TypeORM · MySQL · RabbitMQ · Elasticsearch |
-| Feed | Posts, comments, reactions, hashtags, mentions, follow graph, feed ranking workers, video and document processing | NestJS · WebSockets · Redis · Elasticsearch · FFmpeg · S3 |
-| Reputation | Ratings, feedback, reputation scoring, cross-service integrations | NestJS · TypeORM · MySQL · RabbitMQ |
-| API Gateway | Single entry point for routing, proxying, auth and request/response transformation | Express · TypeScript · Sequelize · Winston |
-| Payment | Unified payment gateway for SSLCOMMERZ, bKash and Stripe, plus callbacks and transaction reconciliation | Express · TypeScript · Sequelize · Zod |
-| Analytics | Reporting, scheduled aggregation cron jobs, reputation publishing pipeline, dashboards | Laravel 12 · php-amqplib · Google Cloud · Chart.js |
-| Admin | Internal admin panel and operations tooling | Laravel 12 · Inertia.js · React · TypeScript · Tailwind |
-| Public UI | Customer facing web app: feeds, profiles, live sessions, whiteboard, payments | Next.js 15 · Redux Toolkit · Tailwind · Agora · Pusher |
+| Service     | Responsibility                                                                                                                                      | Stack                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Core        | Auth (JWT / OAuth / WebAuthn / OTP), chat, webinars, video calls, notifications (FCM, APNs, email), payments, badges, access control, global search | NestJS · TypeORM · MySQL · RabbitMQ · Redis · BullMQ · Elasticsearch · S3 |
+| Profile     | Experience, education, skills, certifications, publications, projects, identity verification, profile completion scoring                            | NestJS · TypeORM · MySQL · RabbitMQ · Elasticsearch                       |
+| Feed        | Posts, comments, reactions, hashtags, mentions, follow graph, feed ranking workers, video and document processing                                   | NestJS · WebSockets · Redis · Elasticsearch · FFmpeg · S3                 |
+| Reputation  | Ratings, feedback, reputation scoring, cross-service integrations                                                                                   | NestJS · TypeORM · MySQL · RabbitMQ                                       |
+| API Gateway | Single entry point for routing, proxying, auth and request/response transformation                                                                  | Express · TypeScript · Sequelize · Winston                                |
+| Payment     | Unified payment gateway for SSLCOMMERZ, bKash and Stripe, plus callbacks and transaction reconciliation                                             | Express · TypeScript · Sequelize · Zod                                    |
+| Analytics   | Reporting, scheduled aggregation cron jobs, reputation publishing pipeline, dashboards                                                              | Laravel 12 · php-amqplib · Google Cloud · Chart.js                        |
+| Admin       | Internal admin panel and operations tooling                                                                                                         | Laravel 12 · Inertia.js · React · TypeScript · Tailwind                   |
+| Public UI   | Customer facing web app: feeds, profiles, live sessions, whiteboard, payments                                                                       | Next.js 15 · Redux Toolkit · Tailwind · Agora · Pusher                    |
 
 **Key Contributions**
+
 - Event-driven communication between services over RabbitMQ, with publishers, consumers and separate worker processes
 - Elasticsearch indexing and search pipelines, kept in sync with MySQL through domain events
 - Auth and session management: JWT with refresh tokens, Google OAuth, WebAuthn passkeys and OTP
@@ -110,6 +112,7 @@ Expert networking and consultation platform, built as a set of independently dep
 ---
 
 ### 🏢 TMSS ICT Limited
+
 Enterprise products I built during my 4+ years at [TMSS ICT Limited](https://tmss-ict.com/), Mirpur, Dhaka.
 
 [![tmss-ict.com](https://img.shields.io/badge/tmss--ict.com-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tmss-ict.com/)
@@ -117,11 +120,13 @@ Enterprise products I built during my 4+ years at [TMSS ICT Limited](https://tms
 ---
 
 #### 🏦 Microfinance Management System
+
 Microfinance platform for loan, savings and member account management.
 
 **Tech Stack:** Laravel, Vue.js, jQuery, MySQL, Bootstrap
 
 **Key Contributions**
+
 - Loan disbursement, repayment scheduling and field collection workflows
 - Savings accounts, member ledgers and day-end accounting
 - Branch-wise reporting, and query tuning to keep the heavy reports usable
@@ -131,11 +136,13 @@ Microfinance platform for loan, savings and member account management.
 ---
 
 #### 🏫 Multi School Management System
+
 Multi-tenant school management system running several institutions off one deployment.
 
 **Tech Stack:** Laravel, Vue.js, MySQL, Tailwind CSS, Bootstrap
 
 **Key Contributions**
+
 - Designed the multi-tenant data model and institution-scoped access control
 - Admission, class and section, attendance, exam and result processing modules
 - Fee billing, invoicing and payment collection
@@ -146,11 +153,13 @@ Multi-tenant school management system running several institutions off one deplo
 ---
 
 #### 👥 HR Management System
+
 HR platform covering the employee lifecycle from joining to payroll.
 
 **Tech Stack:** Laravel, Vue.js, MySQL, Bootstrap
 
 **Key Contributions**
+
 - Employee records, department and designation management
 - Attendance, leave applications and multi-step approval flows
 - Payroll with allowances, deductions and payslip generation
@@ -161,9 +170,11 @@ HR platform covering the employee lifecycle from joining to payroll.
 ---
 
 #### 📦 Inventory Management System
+
 Stock and procurement system for multi-warehouse operations.
 
 **Features**
+
 - Purchase, requisition and approval workflows
 - Stock in/out tracking, transfers and adjustments
 - Inventory valuation and stock movement reports
@@ -175,9 +186,11 @@ Stock and procurement system for multi-warehouse operations.
 ---
 
 #### 💰 Provident Fund
+
 Provident fund system for employee contributions and settlements.
 
 **Features**
+
 - Contribution tracking, interest calculation and member ledgers
 - Loan against fund and settlement workflows
 - Member statements and reports
@@ -189,6 +202,7 @@ Provident fund system for employee contributions and settlements.
 ---
 
 ## 🛒 Self-Learning Projects
+
 E-Commerce, Attendance Management System and a Blog, built while learning.
 
 **Tech Stack:** Laravel, Vue.js, Tailwind CSS, Bootstrap, MySQL
@@ -197,10 +211,10 @@ E-Commerce, Attendance Management System and a Blog, built while learning.
 
 ## 💼 Work Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| Software Engineer | [![StarConnect](https://img.shields.io/badge/StarConnect-6200EE?style=for-the-badge&logoColor=white)](https://www.starconnect.com/) <br/> Dhaka Trade Centre, Kawran Bazar, Dhaka | 2025 – Present |
-| Software Engineer | [![TMSS ICT Limited](https://img.shields.io/badge/TMSS%20ICT%20Limited-065844?style=for-the-badge&logoColor=white)](https://tmss-ict.com/) <br/> Mirpur, Dhaka | 08/2021 – 2025 (4+ years) |
+| Role              | Company                                                                                                                                                                           | Period                    |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Software Engineer | [![StarConnect][sc-badge]](https://www.starconnect.com/) <br/> Dhaka Trade Centre, Kawran Bazar, Dhaka | 2025 – Present            |
+| Software Engineer | [![TMSS ICT Limited](https://img.shields.io/badge/TMSS%20ICT%20Limited-065844?style=for-the-badge&logoColor=white)](https://tmss-ict.com/) <br/> Mirpur, Dhaka                    | 08/2021 – 2025 (4+ years) |
 
 ---
 
@@ -245,3 +259,5 @@ B.Sc. in Computer Science & Engineering (CSE)
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=shahriarshawon01&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
+
+[sc-badge]: https://img.shields.io/badge/StarConnect-6200EE?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlN0YXJDb25uZWN0Ij4KICA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDcuOTk5OSA0Mi4zMDI0TDM3Ljk2MDQgMzkuMDk5OEwzNy42NzczIDM5LjAxNjRMMzUuOTcwOCAzOC40NzQzQzMzLjA1NzIgNDAuMDA4OSAyOS43NzcyIDQwLjgxNzkgMjYuNDY0IDQwLjgxNzlDMjQuODA3NCA0MC44MTc5IDIzLjE0MjUgNDAuNjE3NyAyMS41MzU4IDQwLjIxNzRMMjEuMTYxMiA0MC4xMTczTDIyLjAxODcgMzcuOTY1NkwyMi40NzY1IDM2LjgyM0wyMi45MzQ0IDM1LjY1NTRMMjMuMjE3NCAzNS43MTM3QzI0LjI5OTYgMzUuOTQ3MyAyNS4zOTAxIDM2LjA2NCAyNi40NzI0IDM2LjA2NEMyOS41Mjc1IDM2LjA2NCAzMi40ODI4IDM1LjE4IDM1LjAzMDEgMzMuNTAzNkwzNS4zNjMxIDMzLjI3ODRMMzYuNTAzNiAzMy42NDU0TDM2LjU2MTggMzMuNjYyMUw0MC40NjYxIDM0LjkxMzFMMzkuMDkyNSAzMC44MzQ4TDM4Ljk2NzcgMzAuNDY3OEwzOC44MDk1IDMwLjAxNzVMMzkuMDY3NiAyOS42NjcyQzM5LjQyNTUgMjkuMTc1MSAzOS43NTAyIDI4LjY2NjQgNDAuMDQxNiAyOC4xNDFDNDEuMTczNyAyNi4xNDc3IDQxLjgzMTQgMjMuOTQ1OSA0MS45ODk1IDIxLjY1MjRDNDIuMDE0NSAyMS4zMTA0IDQyLjAzMTIgMjAuOTYwMiA0Mi4wMzEyIDIwLjYwOTlDNDIuMDMxMiAxMi4wNzggMzUuMDQ2OCA1LjE0NzM5IDI2LjQ3MjQgNS4xNDczOUMxOS43ODc3IDUuMTQ3MzkgMTQuMDY4NiA5LjM2NzQ3IDExLjg3OTIgMTUuMjcyMkMxMS4yNTQ5IDE2LjkzMTkgMTAuOTIxOSAxOC43MjUgMTAuOTIxOSAyMC41OTMyQzEwLjkyMTkgMjAuODYwMSAxMC45Mzg1IDIxLjExODYgMTAuOTQ2OSAyMS4zODU1QzExLjAwNTEgMjIuNDM2MyAxMS4xNjMzIDIzLjQ4NzIgMTEuNDI5NyAyNC41MDQ3TDExLjUwNDYgMjQuNzg4MkwxMS4yNDY1IDI0Ljg4ODNMMTAuMTQ3NyAyNS4zMzA0TDcuMDY3NTcgMjYuNTgxNEw2Ljk1OTM1IDI2LjIyMjdDNi40MjY1NyAyNC4zNzk2IDYuMTUxODYgMjIuNDk0NyA2LjE1MTg2IDIwLjU4NDlDNi4xNTE4NiAxOS40NjczIDYuMjQzNDMgMTguMzc0NyA2LjQyNjU3IDE3LjMxNTVDNi43NzYyMSAxNS4xNzIyIDcuNDc1NDggMTMuMTM3MiA4LjQ0OTQ2IDExLjI3NzNDMTEuODM3NiA0LjgxMzc5IDE4LjY0NzIgMC4zOTM1NTUgMjYuNDcyNCAwLjM5MzU1NUMzNi42NDUxIDAuMzkzNTU1IDQ1LjA5NDYgNy44NjYyNSA0Ni41NjgxIDE3LjU3NDFDNDYuNzE3OSAxOC41NTgyIDQ2Ljc5MjkgMTkuNTc1NyA0Ni43OTI5IDIwLjYwMTVDNDYuNzkyOSAyMy4zMDM3IDQ2LjI1MTggMjUuOTcyNSA0NS4yMDI4IDI4LjQ0MTJDNDQuODc4MiAyOS4yMDg1IDQ0LjUwMzYgMjkuOTY3NCA0NC4wNzkgMzAuNjkzTDQ0LjIyODkgMzEuMTI2N0w0NC40MzcgMzEuNzM1NUw0Ny45OTk5IDQyLjMwMjRaIi8+CiAgPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTI2LjM4OTIgMjEuMDkzNUwwIDMxLjc2ODhMMTEuMzc5OCAzNi4yMzA3TDE1LjkwODQgNDcuNTk4MkwyNi4zODkyIDIxLjA5MzVaIi8+Cjwvc3ZnPgo=
