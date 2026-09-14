@@ -76,7 +76,7 @@ The problems I enjoy most are the ones around service boundaries, async messagin
 
 ## 🌟 Featured Projects
 
-### <img src="assets/starconnect.svg" height="20" alt="" /> StarConnect
+### <img src="assets/starconnect.svg" height="20" align="middle" alt="" /> StarConnect
 
 Expert networking and consultation platform, built as a set of independently deployable microservices.
 
