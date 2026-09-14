@@ -227,17 +227,21 @@ B.Sc. in Computer Science & Engineering (CSE)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarshawon01&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriarshawon01&theme=transparent" alt="Profile details"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarshawon01&theme=chartreuse-dark&hide_border=false" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shahriarshawon01&theme=chartreuse-dark&hide_border=false" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarshawon01&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahriarshawon01&theme=transparent" alt="Top languages by repo" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriarshawon01&theme=transparent" alt="Top languages by commit" height="200"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriarshawon01&theme=transparent" alt="GitHub stats"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahriarshawon01&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=shahriarshawon01&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
 </p>
