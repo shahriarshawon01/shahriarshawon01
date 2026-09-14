@@ -76,7 +76,7 @@ The problems I enjoy most are the ones around service boundaries, async messagin
 
 ## 🌟 Featured Projects
 
-### <img src="assets/starconnect.svg" height="16" alt="" /> StarConnect
+### <img src="assets/starconnect.svg" height="17" alt="" /> StarConnect
 
 Expert networking and consultation platform, built as a set of independently deployable microservices.
 
@@ -211,10 +211,10 @@ E-Commerce, Attendance Management System and a Blog, built while learning.
 
 ## 💼 Work Experience
 
-| Role              | Company                                                                                                                                                                           | Period                    |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Software Engineer | [![StarConnect][sc-badge]](https://www.starconnect.com/) <br/> Dhaka Trade Centre, Kawran Bazar, Dhaka | 2025 – Present            |
-| Software Engineer | [![TMSS ICT Limited](https://img.shields.io/badge/TMSS%20ICT%20Limited-065844?style=for-the-badge&logoColor=white)](https://tmss-ict.com/) <br/> Mirpur, Dhaka                    | 08/2021 – 2025 (4+ years) |
+| Role              | Company                                                                                                                                                        | Period                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Software Engineer | [![StarConnect][sc-badge]](https://www.starconnect.com/) <br/> Dhaka Trade Centre, Kawran Bazar, Dhaka                                                         | 2025 – Present            |
+| Software Engineer | [![TMSS ICT Limited](https://img.shields.io/badge/TMSS%20ICT%20Limited-065844?style=for-the-badge&logoColor=white)](https://tmss-ict.com/) <br/> Mirpur, Dhaka | 08/2021 – 2025 (4+ years) |
 
 ---
 
