@@ -105,14 +105,14 @@ Expert networking and consultation platform, built as a set of independently dep
 - Docker Compose for local infra, Kubernetes deployments through GitHub Actions and Argo CD
 - Unit and integration tests in Jest, E2E coverage with Playwright
 
-🔗 Live: [www.starconnect.com](https://www.starconnect.com/)
+[![www.starconnect.com](https://img.shields.io/badge/www.starconnect.com-6200EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.starconnect.com/)
 
 ---
 
 ### 🏢 TMSS ICT Limited
 Enterprise products I built during my 4+ years at [TMSS ICT Limited](https://tmss-ict.com/), Mirpur, Dhaka.
 
-🔗 Company: [tmss-ict.com](https://tmss-ict.com/)
+[![tmss-ict.com](https://img.shields.io/badge/tmss--ict.com-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tmss-ict.com/)
 
 ---
 
@@ -126,7 +126,7 @@ Microfinance platform for loan, savings and member account management.
 - Savings accounts, member ledgers and day-end accounting
 - Branch-wise reporting, and query tuning to keep the heavy reports usable
 
-🔗 Live: [hem.mikrof.com](https://hem.mikrof.com/)
+[![hem.mikrof.com](https://img.shields.io/badge/hem.mikrof.com-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hem.mikrof.com/)
 
 ---
 
@@ -141,7 +141,7 @@ Multi-tenant school management system running several institutions off one deplo
 - Fee billing, invoicing and payment collection
 - Separate dashboards for admin, teacher, student and guardian roles
 
-🔗 Live: [app.edu-desk.net](https://app.edu-desk.net/)
+[![app.edu-desk.net](https://img.shields.io/badge/app.edu--desk.net-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app.edu-desk.net/)
 
 ---
 
@@ -156,7 +156,7 @@ HR platform covering the employee lifecycle from joining to payroll.
 - Payroll with allowances, deductions and payslip generation
 - HR reports and summary dashboards
 
-🔗 Live: [jcf.honeycombhr.org](https://jcf.honeycombhr.org/)
+[![jcf.honeycombhr.org](https://img.shields.io/badge/jcf.honeycombhr.org-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jcf.honeycombhr.org/)
 
 ---
 
@@ -170,7 +170,7 @@ Stock and procurement system for multi-warehouse operations.
 
 **Tech Stack:** Laravel, Vue.js, MySQL, Bootstrap
 
-🔗 Live: [inventory.tmssict.com](https://inventory.tmssict.com/)
+[![inventory.tmssict.com](https://img.shields.io/badge/inventory.tmssict.com-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inventory.tmssict.com/)
 
 ---
 
@@ -184,7 +184,7 @@ Provident fund system for employee contributions and settlements.
 
 **Tech Stack:** Laravel, jQuery, MySQL, Bootstrap
 
-🔗 Live: [pf.tmssict.com](https://pf.tmssict.com/login)
+[![pf.tmssict.com](https://img.shields.io/badge/pf.tmssict.com-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pf.tmssict.com/login)
 
 ---
 
@@ -199,8 +199,8 @@ E-Commerce, Attendance Management System and a Blog, built while learning.
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Software Engineer | [StarConnect](https://www.starconnect.com/), Dhaka Trade Centre, Kawran Bazar, Dhaka | 2025 – Present |
-| Software Engineer | [TMSS ICT Limited](https://tmss-ict.com/), Mirpur, Dhaka | 08/2021 – 2025 (4+ years) |
+| Software Engineer | [![StarConnect](https://img.shields.io/badge/StarConnect-6200EE?style=for-the-badge&logoColor=white)](https://www.starconnect.com/) <br/> Dhaka Trade Centre, Kawran Bazar, Dhaka | 2025 – Present |
+| Software Engineer | [![TMSS ICT Limited](https://img.shields.io/badge/TMSS%20ICT%20Limited-065844?style=for-the-badge&logoColor=white)](https://tmss-ict.com/) <br/> Mirpur, Dhaka | 08/2021 – 2025 (4+ years) |
 
 ---
 
