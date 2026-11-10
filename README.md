@@ -195,7 +195,7 @@ Provident fund system for employee contributions and settlements.
 - Loan against fund and settlement workflows
 - Member statements and reports
 
-**Tech Stack:** Laravel, jQuery, MySQL, Bootstrap
+**Tech Stack:** Laravel, Vue.js, jQuery, MySQL, Bootstrap
 
 [![pf.tmssict.com](https://img.shields.io/badge/pf.tmssict.com-065844?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pf.tmssict.com/login)
 
